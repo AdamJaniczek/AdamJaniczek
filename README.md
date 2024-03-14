@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java Spring Boot, Java, SQL.
 - 💞️ I am looking for cooperation on small projects in Java.
-- 📫 How to reach me ajaniczek@itsystems.com.pl or visit https://itsystems.com.pl
+- 📫 How to reach me ajaniczek@itsystems.com.pl or visit https://www.buymeacoffee.com/adamjaniczek
 - 😄 Pronouns: He
 
 <!---
